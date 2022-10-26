@@ -151,7 +151,7 @@ font-size: 25px;
 
 span {
   padding : 30px;
-  background : #3e3d3d; 
+  background: linear-gradient(110deg, #141414 50%, #2f2e2e 60%); 
   color : rgb(245, 249, 4);
   font-size : 1.9em;
   font-variant : small-caps;
