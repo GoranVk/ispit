@@ -28,7 +28,20 @@ font-family: fantasy;
 height: 15vh;
 margin-top: 5%;
 font-size: 77px;
-
+text-shadow: 1px 1px 1px #0c0c0c,
+        1px 2px 1px #615050,
+        1px 3px 1px #503939,
+        1px 4px 1px #632f2f,
+        1px 5px 1px #7f2727,
+        1px 6px 1px #fb0101,
+        1px 7px 1px #fd0101,
+        1px 8px 1px #fa0404,
+        1px 9px 1px #fb0404,
+        1px 10px 1px #fa0606,
+    1px 18px 6px rgba(16,16,16,0.4),
+    1px 22px 10px rgba(16,16,16,0.2),
+    1px 25px 35px rgba(16,16,16,0.2),
+    1px 30px 60px rgba(16,16,16,0.4);
 }
 
 
@@ -56,6 +69,20 @@ margin-bottom: 5%;
 text-align: center;
 font-family: fantasy;
 font-size: 50px;
+text-shadow: 1px 1px 1px #0c0c0c,
+        1px 2px 1px #615050,
+        1px 3px 1px #503939,
+        1px 4px 1px #632f2f,
+        1px 5px 1px #7f2727,
+        1px 6px 1px #fb0101,
+        1px 7px 1px #fd0101,
+        1px 8px 1px #fa0404,
+        1px 9px 1px #fb0404,
+        1px 10px 1px #fa0606,
+    1px 18px 6px rgba(16,16,16,0.4),
+    1px 22px 10px rgba(16,16,16,0.2),
+    1px 25px 35px rgba(16,16,16,0.2),
+    1px 30px 60px rgba(16,16,16,0.4);
 
 }
 
@@ -66,6 +93,20 @@ margin-bottom: 2%;
 font-family: fantasy;
 font-size: 30px;
 text-align: center;
+text-shadow: 1px 1px 1px #0c0c0c,
+        1px 2px 1px #615050,
+        1px 3px 1px #503939,
+        1px 4px 1px #632f2f,
+        1px 5px 1px #7f2727,
+        1px 6px 1px #fb0101,
+        1px 7px 1px #fd0101,
+        1px 8px 1px #fa0404,
+        1px 9px 1px #fb0404,
+        1px 10px 1px #fa0606,
+    1px 18px 6px rgba(16,16,16,0.4),
+    1px 22px 10px rgba(16,16,16,0.2),
+    1px 25px 35px rgba(16,16,16,0.2),
+    1px 30px 60px rgba(16,16,16,0.4);
 
 }
 
@@ -158,6 +199,7 @@ span {
   cursor : pointer;
   display: block;
   border-radius: 55%;
+  box-shadow: 5px 10px 8px 10px #c20404;
 }
 
 span::after {
